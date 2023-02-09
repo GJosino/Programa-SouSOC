@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author josino
+ *
+ */
+module Funcionario {
+}
